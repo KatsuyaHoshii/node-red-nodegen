@@ -82,5 +82,8 @@
     },
     "bin": {
         "node-red-nodegen": "./bin/node-red-nodegen.js"
-    }
+    },
+    "scripts": {
+        "test": "grunt",
+  },
 }
